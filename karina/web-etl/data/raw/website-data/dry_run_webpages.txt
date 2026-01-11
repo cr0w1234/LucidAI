@@ -1,0 +1,297 @@
+Webpage links grouped by endpoint:
+(This prints only public webpage permalinks, not wp-json API URLs.)
+
+=== posts ===
+  https://www.schoolhealthcenters.org/a-lifeline-to-students-during-the-pandemic/
+  https://www.schoolhealthcenters.org/california-students-creatively-share-health-knowledge-at-y2y/
+  https://www.schoolhealthcenters.org/naloxone-in-sbhcs/
+  https://www.schoolhealthcenters.org/engaging-youth-in-tobacco-prevention/
+  https://www.schoolhealthcenters.org/from-the-garden-to-the-kitchen-west-oakland-middle-school-woms/
+  https://www.schoolhealthcenters.org/healthier-foods-at-school-and-at-home-urban-promise-academy-upa/
+  https://www.schoolhealthcenters.org/innovative-eating-with-grab-n-go-breakfasts-fremont-high-school/
+  https://www.schoolhealthcenters.org/sbhc-boosts-health-attendance-in-a-rural-community/
+
+=== pages ===
+  https://www.schoolhealthcenters.org/free-care-rule/
+  https://www.schoolhealthcenters.org/our-work/conference/
+  https://www.schoolhealthcenters.org/thank-you-for-your-donation/
+  https://www.schoolhealthcenters.org/our-work/2025-y2y-conference/
+  https://www.schoolhealthcenters.org/our-work/2025-conference-program/
+  https://www.schoolhealthcenters.org/our-work/technical-assistance/webinars/
+  https://www.schoolhealthcenters.org/membership/thank-you/
+  https://www.schoolhealthcenters.org/our-work/conference/2024-program/
+  https://www.schoolhealthcenters.org/case-studies/
+  https://www.schoolhealthcenters.org/our-work/supporting-school-based-health-centers/profiles/
+  https://www.schoolhealthcenters.org/our-work/policy/existing-federal-and-state-laws/
+  https://www.schoolhealthcenters.org/sign-up-for-e-news/
+  https://www.schoolhealthcenters.org/donate/
+  https://www.schoolhealthcenters.org/our-work/regions/far-north/
+  https://www.schoolhealthcenters.org/start-here/fqhc-staff-or-administrator/
+  https://www.schoolhealthcenters.org/start-here/behavioral-health-provider/
+  https://www.schoolhealthcenters.org/our-work/supporting-school-based-health-centers/locations/
+  https://www.schoolhealthcenters.org/our-work/supporting-school-based-health-centers/case-studies/
+  https://www.schoolhealthcenters.org/our-work/regions/inland-empire/
+  https://www.schoolhealthcenters.org/our-work/policy/priorities-updates/
+  https://www.schoolhealthcenters.org/our-work/policy/legislation-advocacy/
+  https://www.schoolhealthcenters.org/start-here/student/
+  https://www.schoolhealthcenters.org/start-here/school-nurse/
+  https://www.schoolhealthcenters.org/start-here/school-administrator/
+  https://www.schoolhealthcenters.org/start-here/advocate/
+  https://www.schoolhealthcenters.org/start-here/parent-guardian/
+  https://www.schoolhealthcenters.org/start-here/health-provider/
+  https://www.schoolhealthcenters.org/membership/become-a-member/
+  https://www.schoolhealthcenters.org/membership/member-resources/
+  https://www.schoolhealthcenters.org/membership/member-login/
+  https://www.schoolhealthcenters.org/about/youth-board/
+  https://www.schoolhealthcenters.org/about/job-listings/
+  https://www.schoolhealthcenters.org/about/our-supporters/
+  https://www.schoolhealthcenters.org/about/contact-us/
+  https://www.schoolhealthcenters.org/about/board/
+  https://www.schoolhealthcenters.org/our-work/regions/
+  https://www.schoolhealthcenters.org/our-work/policy/
+  https://www.schoolhealthcenters.org/our-work/technical-assistance/
+  https://www.schoolhealthcenters.org/our-work/supporting-school-based-health-centers/
+  https://www.schoolhealthcenters.org/our-work/regions/central-valley/
+  https://www.schoolhealthcenters.org/our-work/
+  https://www.schoolhealthcenters.org/component-demo/
+  https://www.schoolhealthcenters.org/search-test/
+  https://www.schoolhealthcenters.org/
+  https://www.schoolhealthcenters.org/about/staff/
+  https://www.schoolhealthcenters.org/membership/
+  https://www.schoolhealthcenters.org/about/
+  https://www.schoolhealthcenters.org/resources/
+  https://www.schoolhealthcenters.org/sample-page/
+
+=== menu-items ===
+  (no public webpage links found)
+
+=== blocks ===
+  (no public webpage links found)
+
+=== templates ===
+  (no public webpage links found)
+
+=== template-parts ===
+  (no public webpage links found)
+
+=== navigation ===
+  https://www.schoolhealthcenters.org/navigation-3/
+  https://www.schoolhealthcenters.org/navigation-2/
+  https://www.schoolhealthcenters.org/navigation/
+
+=== font-families ===
+  (no public webpage links found)
+
+=== person ===
+  https://www.schoolhealthcenters.org/people/camara-christian/
+  https://www.schoolhealthcenters.org/people/taaliyah-tucker/
+  https://www.schoolhealthcenters.org/people/saivishnu-tulugu/
+  https://www.schoolhealthcenters.org/people/rehma-shahid/
+  https://www.schoolhealthcenters.org/people/nancy-aguilar/
+  https://www.schoolhealthcenters.org/people/jubilee-adams/
+  https://www.schoolhealthcenters.org/people/carmen-vega/
+  https://www.schoolhealthcenters.org/people/sharla-e-smith/
+  https://www.schoolhealthcenters.org/people/maryjane-puffer/
+  https://www.schoolhealthcenters.org/people/stephanie-ocampo/
+  https://www.schoolhealthcenters.org/people/felipe-mercado/
+  https://www.schoolhealthcenters.org/people/michael-lombardo/
+  https://www.schoolhealthcenters.org/people/jazzmin-hicks-bonam/
+  https://www.schoolhealthcenters.org/people/deanna-niebuhr/
+  https://www.schoolhealthcenters.org/people/dareen-khatib/
+  https://www.schoolhealthcenters.org/people/dina-mirmotalebisohi/
+  https://www.schoolhealthcenters.org/people/christian-lizaso/
+  https://www.schoolhealthcenters.org/people/mario-alfaro/
+  https://www.schoolhealthcenters.org/people/jessica-saint-paul/
+  https://www.schoolhealthcenters.org/people/ally-wick/
+  https://www.schoolhealthcenters.org/people/judy-singharath/
+  https://www.schoolhealthcenters.org/people/irma-rosa-viera/
+  https://www.schoolhealthcenters.org/people/marcel-reynolds/
+  https://www.schoolhealthcenters.org/people/amy-ranger/
+  https://www.schoolhealthcenters.org/people/marina-quintanilla/
+  https://www.schoolhealthcenters.org/people/tracy-nguyen/
+  https://www.schoolhealthcenters.org/people/sierra-lau/
+  https://www.schoolhealthcenters.org/people/amy-blackshaw/
+  https://www.schoolhealthcenters.org/people/sergio-j-morales/
+  https://www.schoolhealthcenters.org/people/charlize-chloe-castillo/
+
+=== resource ===
+  https://www.schoolhealthcenters.org/resource/safer-spaces-for-lgbtqia-youth/
+  https://www.schoolhealthcenters.org/resource/wellness-coaches-voices-webinar/
+  https://www.schoolhealthcenters.org/resource/supporting-immigrant-lgbtq-youth-webinar/
+  https://www.schoolhealthcenters.org/resource/2025-ie-symposium-resources/
+  https://www.schoolhealthcenters.org/resource/youth-driven-substance-use-prevention-webinar/
+  https://www.schoolhealthcenters.org/resource/safety-first-curriculum-webinar/
+  https://www.schoolhealthcenters.org/resource/power-of-peers-curriculum/
+  https://www.schoolhealthcenters.org/resource/school-climate/
+  https://www.schoolhealthcenters.org/resource/webinar-pride-curriculum-training/
+  https://www.schoolhealthcenters.org/resource/webinar-advancing-your-cost/
+  https://www.schoolhealthcenters.org/resource/hipaa-ferpa-guide-california/additional-resources/
+  https://www.schoolhealthcenters.org/resource/schoolwide-screenings/trauma-screening/
+  https://www.schoolhealthcenters.org/resource/schoolwide-screenings/sample-materials/
+  https://www.schoolhealthcenters.org/resource/schoolwide-screenings/case-studies/
+  https://www.schoolhealthcenters.org/resource/schoolwide-screenings/revenue/
+  https://www.schoolhealthcenters.org/resource/schoolwide-screenings/staff-resources/
+  https://www.schoolhealthcenters.org/resource/schoolwide-screenings/screening-models/
+  https://www.schoolhealthcenters.org/resource/schoolwide-screenings/
+  https://www.schoolhealthcenters.org/resource/community-school-partnerships/
+  https://www.schoolhealthcenters.org/resource/hipaa-ferpa-guide-california/background/
+  https://www.schoolhealthcenters.org/resource/hipaa-ferpa-guide-california/providing-minor-consent-including-mental-health-and-sexual-and-reproductive-health-srh-services/
+  https://www.schoolhealthcenters.org/resource/hipaa-ferpa-guide-california/school-nurse-records-and-communications/
+  https://www.schoolhealthcenters.org/resource/hipaa-ferpa-guide-california/mental-health-provider-records-subject-to-ferpa/
+  https://www.schoolhealthcenters.org/resource/hipaa-ferpa-guide-california/hipaa-and-ferpa/
+  https://www.schoolhealthcenters.org/resource/hipaa-ferpa-guide-california/providing-minor-consent-including-mental-health-and-sexual-and-reproductive-health-srh-services-2/
+  https://www.schoolhealthcenters.org/resource/hipaa-ferpa-guide-california/endnotes/
+  https://www.schoolhealthcenters.org/resource/hipaa-ferpa-guide-california/faq-obtaining-information-from-the-school-record/
+  https://www.schoolhealthcenters.org/resource/funding-behavioral-health/
+  https://www.schoolhealthcenters.org/resource/vision-to-reality/explore-chapters-appendices/
+  https://www.schoolhealthcenters.org/resource/excerpts-ca-ed-code-health-safety-code/
+  https://www.schoolhealthcenters.org/resource/immigration/
+  https://www.schoolhealthcenters.org/resource/immunizations/
+  https://www.schoolhealthcenters.org/resource/oral-health/
+  https://www.schoolhealthcenters.org/resource/vision-screening-guide/
+  https://www.schoolhealthcenters.org/resource/wellness-coaches/
+  https://www.schoolhealthcenters.org/resource/fee-schedule/
+  https://www.schoolhealthcenters.org/resource/sbirt-quick-guides/opioid-use-disorder/
+  https://www.schoolhealthcenters.org/resource/cybhi/
+  https://www.schoolhealthcenters.org/resource/funding/
+  https://www.schoolhealthcenters.org/resource/telehealth/
+  https://www.schoolhealthcenters.org/resource/sexual-reproductive-health/
+  https://www.schoolhealthcenters.org/resource/vision/
+  https://www.schoolhealthcenters.org/resource/sbirt-quick-guides/native-american-youth/
+  https://www.schoolhealthcenters.org/resource/sbirt-quick-guides/referral/
+  https://www.schoolhealthcenters.org/resource/sbirt-quick-guides/screening/
+  https://www.schoolhealthcenters.org/resource/sbirt-quick-guides/brief-interventions/
+  https://www.schoolhealthcenters.org/resource/sbirt-quick-guides/
+  https://www.schoolhealthcenters.org/resource/naloxone/
+  https://www.schoolhealthcenters.org/resource/vaping/
+  https://www.schoolhealthcenters.org/resource/tobacco-cannabis/
+  https://www.schoolhealthcenters.org/resource/triangulum/
+  https://www.schoolhealthcenters.org/resource/substance-use/
+  https://www.schoolhealthcenters.org/resource/school-discipline-student-substance-use-a-guide-for-school-based-health-providers/
+  https://www.schoolhealthcenters.org/resource/nutrition-fitness/
+  https://www.schoolhealthcenters.org/resource/body-basics-a-toolkit-for-adolescent-providers/
+  https://www.schoolhealthcenters.org/resource/engaging-families/
+  https://www.schoolhealthcenters.org/resource/consent/
+  https://www.schoolhealthcenters.org/resource/consent-confidentiality/
+  https://www.schoolhealthcenters.org/resource/student-mental-health-implementation-guide/section-9-funding-sustainability/
+  https://www.schoolhealthcenters.org/resource/student-mental-health-implementation-guide/section-8-legal-liability/
+  https://www.schoolhealthcenters.org/resource/student-mental-health-implementation-guide/section-7-staffing-facilities/
+  https://www.schoolhealthcenters.org/resource/student-mental-health-implementation-guide/section-6-coordination/
+  https://www.schoolhealthcenters.org/resource/student-mental-health-implementation-guide/section-5-planning-partnership/
+  https://www.schoolhealthcenters.org/resource/student-mental-health-implementation-guide/section-4-needs-assessment/
+  https://www.schoolhealthcenters.org/resource/student-mental-health-implementation-guide/section-3-youth-engagement/
+  https://www.schoolhealthcenters.org/resource/student-mental-health-implementation-guide/section-10-evaluation/
+  https://www.schoolhealthcenters.org/resource/planning-and-implementation/
+  https://www.schoolhealthcenters.org/resource/peer-support/
+  https://www.schoolhealthcenters.org/resource/peer-resource-hub/
+  https://www.schoolhealthcenters.org/resource/youth-engagement/
+  https://www.schoolhealthcenters.org/resource/youth-health-worker-curricula/
+  https://www.schoolhealthcenters.org/resource/trauma-informed-services/trauma-informed-clinics/
+  https://www.schoolhealthcenters.org/resource/trauma-informed-services/therapeutic-trauma-interventions/
+  https://www.schoolhealthcenters.org/resource/trauma-informed-services/school-interventions/
+  https://www.schoolhealthcenters.org/resource/hearts-core-principles/
+  https://www.schoolhealthcenters.org/resource/student-mental-health-implementation-guide/section-2-equity-mental-health/
+  https://www.schoolhealthcenters.org/resource/student-mental-health-implementation-guide/section-1-overview-of-school-mental-health/
+  https://www.schoolhealthcenters.org/resource/student-health-index/methodology/
+  https://www.schoolhealthcenters.org/resource/sbhcs-by-county/
+  https://www.schoolhealthcenters.org/resource/locations/
+  https://www.schoolhealthcenters.org/resource/chronic-absence/
+  https://www.schoolhealthcenters.org/resource/sbhc-best-practices-checklist/
+  https://www.schoolhealthcenters.org/resource/repor-health-young-men/
+  https://www.schoolhealthcenters.org/resource/supporting-boys-young-men-of-color/
+  https://www.schoolhealthcenters.org/resource/school-health-partnerships/
+  https://www.schoolhealthcenters.org/resource/trauma-informed-mh-bmoc/
+  https://www.schoolhealthcenters.org/resource/funding-school-mental-health/
+  https://www.schoolhealthcenters.org/resource/why-sbhcs/
+  https://www.schoolhealthcenters.org/resource/shelter-in-grace/
+  https://www.schoolhealthcenters.org/resource/sustaining-behavioral-health/
+  https://www.schoolhealthcenters.org/resource/mandated-services/
+  https://www.schoolhealthcenters.org/resource/planning/
+  https://www.schoolhealthcenters.org/resource/trauma-informed-services/
+  https://www.schoolhealthcenters.org/resource/integration/
+  https://www.schoolhealthcenters.org/resource/student-health-index/
+  https://www.schoolhealthcenters.org/resource/navigating-the-promise-of-sbhcs-a-guide-for-health-care-leaders/
+  https://www.schoolhealthcenters.org/resource/vision-to-reality/
+  https://www.schoolhealthcenters.org/resource/ca-student-health-index/
+  https://www.schoolhealthcenters.org/resource/mental-health/
+  https://www.schoolhealthcenters.org/resource/behavioral-health/
+  https://www.schoolhealthcenters.org/resource/health-center-operations/
+  https://www.schoolhealthcenters.org/resource/environmental-intervention/
+  https://www.schoolhealthcenters.org/resource/webinar-lgbtq-support-in-education/
+  https://www.schoolhealthcenters.org/resource/tips-for-success-sbhc-leaders-in-reducing-environmental-asthma-triggers/
+  https://www.schoolhealthcenters.org/resource/asthma/
+  https://www.schoolhealthcenters.org/resource/resource-example/
+  https://www.schoolhealthcenters.org/resource/hipaa-ferpa-guide-california/
+  https://www.schoolhealthcenters.org/resource/asthma-environmental-intervention-guide-for-school-based-health-centers/
+  https://www.schoolhealthcenters.org/resource/student-mental-health-implementation-guide/
+  https://www.schoolhealthcenters.org/resource/webinar-live-beyond-campaign/
+  https://www.schoolhealthcenters.org/resource/webinar-supporting-youth-with-aces/
+  https://www.schoolhealthcenters.org/resource/webinar-catch-my-breath/
+  https://www.schoolhealthcenters.org/resource/webinar-wellness-coaches-in-action/
+  https://www.schoolhealthcenters.org/resource/webinar-triangulum-mental-health/
+  https://www.schoolhealthcenters.org/resource/webinar-tupe-peer-educators/
+  https://www.schoolhealthcenters.org/resource/2024-ie-symposium-resources/
+  https://www.schoolhealthcenters.org/resource/webinar-healing-starts-here/
+  https://www.schoolhealthcenters.org/resource/webinar-vaping-nicotine-cannabis-briefing/
+  https://www.schoolhealthcenters.org/resource/webinar-lgbtq-plus-101/
+  https://www.schoolhealthcenters.org/resource/webinar-hs-peer-leader-experiences/
+  https://www.schoolhealthcenters.org/resource/webinar-supporting-trans-nonbinary-students/
+  https://www.schoolhealthcenters.org/resource/webinar-wellness-coaches-new-opportunity/
+  https://www.schoolhealthcenters.org/resource/webinar-peer-support-programs/
+  https://www.schoolhealthcenters.org/resource/webinar-assessing-performance-sbhc/
+  https://www.schoolhealthcenters.org/resource/webinar-healthy-futures-alternatives-to-suspension/
+  https://www.schoolhealthcenters.org/resource/webinar-smart-talk-cannabis-awareness/
+  https://www.schoolhealthcenters.org/resource/webinar-vaping-mental-health/
+  https://www.schoolhealthcenters.org/resource/webinar-youth-making-impact-p2p/
+  https://www.schoolhealthcenters.org/resource/webinar-using-teen-intervene/
+  https://www.schoolhealthcenters.org/resource/webinar-using-motivational-interviewing/
+  https://www.schoolhealthcenters.org/resource/webinar-vape-free-training/
+  https://www.schoolhealthcenters.org/resource/webinar-peer-mentoring-youth-empowerment/
+  https://www.schoolhealthcenters.org/resource/webinar-vaping-trends-adult-allies/
+  https://www.schoolhealthcenters.org/resource/webinar-naloxone-training-sbhc/
+  https://www.schoolhealthcenters.org/resource/webinar-minor-consent-medi-cal/
+  https://www.schoolhealthcenters.org/resource/webinar-about-stis-for-youth/
+  https://www.schoolhealthcenters.org/resource/webinar-racial-trauma-resiliency/
+  https://www.schoolhealthcenters.org/resource/webinar-telehealth-sud-treatment/
+  https://www.schoolhealthcenters.org/resource/webinar-birth-control-basics-for-youth/
+  https://www.schoolhealthcenters.org/resource/webinar-healing-centered-approaches-to-addressing-ara/
+  https://www.schoolhealthcenters.org/resource/webinar-stanford-reach-visit/
+  https://www.schoolhealthcenters.org/resource/webinar-sud-adolescents-treatment/
+  https://www.schoolhealthcenters.org/resource/webinar-stanford-tobacco-prevention-toolkit/
+  https://www.schoolhealthcenters.org/resource/webinar-adolescent-substance-use-engagement-treatment/
+  https://www.schoolhealthcenters.org/resource/webinar-current-trends-adolescent-substance-use/
+  https://www.schoolhealthcenters.org/resource/webinar-sbirt-overview/
+  https://www.schoolhealthcenters.org/resource/webinar-youth-engagement-tup-intervention/
+  https://www.schoolhealthcenters.org/resource/webinar-stanford-tobacco-toolkit-overview/
+  https://www.schoolhealthcenters.org/resource/webinar-adolescent-tupe-sbhcs/
+  https://www.schoolhealthcenters.org/resource/webinar-california-guide-hipaa-ferpa/
+  https://www.schoolhealthcenters.org/resource/webinar-peer-mentoring-resilience-community/
+  https://www.schoolhealthcenters.org/resource/webinar-youth-sex-ed-basics-workshops/
+  https://www.schoolhealthcenters.org/resource/webinar-shelter-in-grace-staff-wellness/
+  https://www.schoolhealthcenters.org/resource/webinar-family-planning-youth/
+  https://www.schoolhealthcenters.org/resource/webinar-minor-consent-sud/
+  https://www.schoolhealthcenters.org/resource/webinar-wellness-support-parents/
+  https://www.schoolhealthcenters.org/resource/telehealth-webinar-consent-confidentiality/
+  https://www.schoolhealthcenters.org/resource/webinar-sbirt-rt-overview/
+  https://www.schoolhealthcenters.org/resource/webinar-telehealth-dental/
+  https://www.schoolhealthcenters.org/resource/webinar-telehealth-youth-engagement/
+  https://www.schoolhealthcenters.org/resource/telehealth-webinar-medical/
+  https://www.schoolhealthcenters.org/resource/webinar-telehealth-platforms/
+  https://www.schoolhealthcenters.org/resource/telehealth-webinar-billing-reimbursement/
+  https://www.schoolhealthcenters.org/resource/webinar-telehealth-behavioral-health/
+  https://www.schoolhealthcenters.org/resource/webinar-sbirt-s-is-for-screening/
+  https://www.schoolhealthcenters.org/resource/webinar-staff-wellness-trauma-informed/
+  https://www.schoolhealthcenters.org/resource/webinar-family-planning-social-media/
+  https://www.schoolhealthcenters.org/resource/webinar-youth-vaping-risks/
+  https://www.schoolhealthcenters.org/resource/webinar-hipaa-ferpa-refresher/
+  https://www.schoolhealthcenters.org/resource/webinar-youth-opioid-overview/
+  https://www.schoolhealthcenters.org/resource/webinar-srh-resources-sbhcs/
+  https://www.schoolhealthcenters.org/resource/webinar-hipaa-ferpa-101/
+  https://www.schoolhealthcenters.org/resource/webinar-sbhcs-reduce-chronic-absence/
+  https://www.schoolhealthcenters.org/resource/webinar-engaging-youth-health-careers/
+  https://www.schoolhealthcenters.org/resource/webinar-public-funding-sustain-mh/
+  https://www.schoolhealthcenters.org/resource/webinar-empowering-youth-health-careers/
+  https://www.schoolhealthcenters.org/resource/webinar-health-academic-achievement/
+  https://www.schoolhealthcenters.org/resource/webinar-restorative-justice-schools/
+  https://www.schoolhealthcenters.org/resource/webinar-health-home-bmoc-best-practices/
+

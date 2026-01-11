@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "csha-ai-etl"
+version = "0.1.0"
+requires-python = ">=3.10"
+
+[project.scripts]
+
+[tool.setuptools.packages.find]
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["rag_etl*"]
+exclude = ["tests*"]
+
