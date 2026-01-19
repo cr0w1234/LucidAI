@@ -1,0 +1,54 @@
+2025-12-30 23:45:58,082 [INFO] rag_agent.services.retriever.two_stage: Starting two-stage retrieval for: who is the ED of CSHA?
+2025-12-30 23:46:00,102 [INFO] rag_agent.services.query_expander: Query Expansion: 'who is the ED of CSHA?' → 'california school health association executive director ed csha'
+2025-12-30 23:46:00,103 [INFO] rag_agent.services.retriever.two_stage: Enhanced query: california school health association executive director ed csha
+2025-12-30 23:46:01,980 [ERROR] rag_agent.services.retriever.two_stage: Error in Stage 1 (rank fusion) filtering: [Errno 2] No such file or directory: '/Users/leonardjin/Dev/csha/csha-ai-agent-api/.csha_venv/lib/python3.13/site-packages/rag_agent/services/retriever/sql/stage1_document_section_filter.sql'
+Traceback (most recent call last):
+  File "/Users/leonardjin/Dev/csha/csha-ai-agent-api/.csha_venv/lib/python3.13/site-packages/rag_agent/services/retriever/two_stage.py", line 206, in _stage1_unit_filter
+    stage1_sql = open(stage1_sql_path).read()
+                 ~~~~^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/leonardjin/Dev/csha/csha-ai-agent-api/.csha_venv/lib/python3.13/site-packages/rag_agent/services/retriever/sql/stage1_document_section_filter.sql'
+2025-12-30 23:46:01,980 [WARNING] rag_agent.services.retriever.two_stage: No units found in Stage 1
+2025-12-30 23:46:01,980 [WARNING] rag_agent.services.rag: No context parts found for query: who is the ED of CSHA?
+2025-12-30 23:46:01,981 [INFO] rag_agent.services.rag: 
+2025-12-30 23:46:01,981 [INFO] rag_agent.services.rag: ============================================================ Total RAG Pipeline Latency ============================================================
+2025-12-30 23:46:01,981 [INFO] rag_agent.services.rag: Total RAG Time: 4.410s
+2025-12-30 23:46:01,981 [INFO] rag_agent.services.rag:   - Setup:             0.511s (11.6%)
+2025-12-30 23:46:01,981 [INFO] rag_agent.services.rag:   - Query Processing:  3.899s (88.4%)
+2025-12-30 23:46:01,981 [INFO] rag_agent.services.rag: ============================================================================================================================================
+2025-12-30 23:46:01,981 [INFO] rag_agent.services.rag: 
+2025-12-30 23:49:14,001 [INFO] rag_agent.services.retriever.two_stage: Starting two-stage retrieval for: who is the ED of CSHA?
+2025-12-30 23:49:15,971 [INFO] rag_agent.services.query_expander: Query Expansion: 'who is the ED of CSHA?' → 'california school health association executive director ed csha'
+2025-12-30 23:49:15,971 [INFO] rag_agent.services.retriever.two_stage: Enhanced query: california school health association executive director ed csha
+2025-12-30 23:49:17,332 [ERROR] rag_agent.services.retriever.two_stage: Error in Stage 1 (rank fusion) filtering: [Errno 2] No such file or directory: '/Users/leonardjin/Dev/csha/csha-ai-agent-api/.csha_venv/lib/python3.13/site-packages/rag_agent/services/retriever/sql/stage1_document_section_filter.sql'
+Traceback (most recent call last):
+  File "/Users/leonardjin/Dev/csha/csha-ai-agent-api/.csha_venv/lib/python3.13/site-packages/rag_agent/services/retriever/two_stage.py", line 206, in _stage1_unit_filter
+    stage1_sql = open(stage1_sql_path).read()
+                 ~~~~^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/leonardjin/Dev/csha/csha-ai-agent-api/.csha_venv/lib/python3.13/site-packages/rag_agent/services/retriever/sql/stage1_document_section_filter.sql'
+2025-12-30 23:49:17,333 [WARNING] rag_agent.services.retriever.two_stage: No units found in Stage 1
+2025-12-30 23:49:17,333 [WARNING] rag_agent.services.rag: No context parts found for query: who is the ED of CSHA?
+2025-12-30 23:49:17,333 [INFO] rag_agent.services.rag: 
+2025-12-30 23:49:17,333 [INFO] rag_agent.services.rag: ============================================================ Total RAG Pipeline Latency ============================================================
+2025-12-30 23:49:17,333 [INFO] rag_agent.services.rag: Total RAG Time: 3.507s
+2025-12-30 23:49:17,333 [INFO] rag_agent.services.rag:   - Setup:             0.175s (5.0%)
+2025-12-30 23:49:17,333 [INFO] rag_agent.services.rag:   - Query Processing:  3.332s (95.0%)
+2025-12-30 23:49:17,333 [INFO] rag_agent.services.rag: ============================================================================================================================================
+2025-12-30 23:49:17,333 [INFO] rag_agent.services.rag: 
+2025-12-31 00:23:24,381 [INFO] rag_agent.services.retriever.two_stage: Starting two-stage retrieval for: What does CSHA stand for?
+2025-12-31 00:23:25,487 [INFO] rag_agent.services.query_expander: Query Expansion: 'What does CSHA stand for?' → 'csha'
+2025-12-31 00:23:25,487 [INFO] rag_agent.services.retriever.two_stage: Enhanced query: csha
+2025-12-31 00:23:26,954 [ERROR] rag_agent.services.retriever.two_stage: Error in Stage 1 (rank fusion) filtering: [Errno 2] No such file or directory: '/Users/leonardjin/Dev/csha/csha-ai-agent-api/.csha_venv/lib/python3.13/site-packages/rag_agent/services/retriever/sql/stage1_document_section_filter.sql'
+Traceback (most recent call last):
+  File "/Users/leonardjin/Dev/csha/csha-ai-agent-api/.csha_venv/lib/python3.13/site-packages/rag_agent/services/retriever/two_stage.py", line 206, in _stage1_unit_filter
+    stage1_sql = open(stage1_sql_path).read()
+                 ~~~~^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/leonardjin/Dev/csha/csha-ai-agent-api/.csha_venv/lib/python3.13/site-packages/rag_agent/services/retriever/sql/stage1_document_section_filter.sql'
+2025-12-31 00:23:26,955 [WARNING] rag_agent.services.retriever.two_stage: No units found in Stage 1
+2025-12-31 00:23:26,955 [WARNING] rag_agent.services.rag: No context parts found for query: What does CSHA stand for?
+2025-12-31 00:23:26,955 [INFO] rag_agent.services.rag: 
+2025-12-31 00:23:26,955 [INFO] rag_agent.services.rag: ============================================================ Total RAG Pipeline Latency ============================================================
+2025-12-31 00:23:26,955 [INFO] rag_agent.services.rag: Total RAG Time: 2.855s
+2025-12-31 00:23:26,955 [INFO] rag_agent.services.rag:   - Setup:             0.281s (9.8%)
+2025-12-31 00:23:26,956 [INFO] rag_agent.services.rag:   - Query Processing:  2.574s (90.2%)
+2025-12-31 00:23:26,956 [INFO] rag_agent.services.rag: ============================================================================================================================================
+2025-12-31 00:23:26,956 [INFO] rag_agent.services.rag: 

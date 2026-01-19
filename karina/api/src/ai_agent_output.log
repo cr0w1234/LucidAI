@@ -1,0 +1,214 @@
+2026-01-10 17:37:48,496 [INFO] rag_agent.services.retriever.two_stage: Starting two-stage retrieval for: who is the ED of CSHA?
+2026-01-10 17:37:50,953 [INFO] rag_agent.services.query_expander: Query Expansion: 'who is the ED of CSHA?' → 'Executive OR Director'
+2026-01-10 17:37:50,953 [INFO] rag_agent.services.retriever.two_stage: Enhanced query: Executive OR Director
+2026-01-10 17:37:53,377 [ERROR] rag_agent.services.retriever.two_stage: STAGE1 COLUMN ORDER:
+2026-01-10 17:37:53,378 [ERROR] rag_agent.services.retriever.two_stage:   r[0] = source_type (25)
+2026-01-10 17:37:53,378 [ERROR] rag_agent.services.retriever.two_stage:   r[1] = source_uuid (2950)
+2026-01-10 17:37:53,378 [ERROR] rag_agent.services.retriever.two_stage:   r[2] = title (25)
+2026-01-10 17:37:53,378 [ERROR] rag_agent.services.retriever.two_stage:   r[3] = link (25)
+2026-01-10 17:37:53,378 [ERROR] rag_agent.services.retriever.two_stage:   r[4] = best_sem_score (701)
+2026-01-10 17:37:53,378 [ERROR] rag_agent.services.retriever.two_stage:   r[5] = best_kw_score (701)
+2026-01-10 17:37:53,378 [ERROR] rag_agent.services.retriever.two_stage:   r[6] = retrieval_sources (1009)
+2026-01-10 17:37:53,378 [ERROR] rag_agent.services.retriever.two_stage: STAGE1 FIRST ROW RAW:
+2026-01-10 17:37:53,378 [ERROR] rag_agent.services.retriever.two_stage:   r[0] = 'document'
+2026-01-10 17:37:53,378 [ERROR] rag_agent.services.retriever.two_stage:   r[1] = UUID('0e1837e5-bcb3-5e07-a3d7-b8bdbd15816e')
+2026-01-10 17:37:53,378 [ERROR] rag_agent.services.retriever.two_stage:   r[2] = 'Jazzmin Hicks-Bonam'
+2026-01-10 17:37:53,378 [ERROR] rag_agent.services.retriever.two_stage:   r[3] = 'https://www.schoolhealthcenters.org/people/jazzmin-hicks-bonam/'
+2026-01-10 17:37:53,378 [ERROR] rag_agent.services.retriever.two_stage:   r[4] = None
+2026-01-10 17:37:53,378 [ERROR] rag_agent.services.retriever.two_stage:   r[5] = 6.6567487716674805
+2026-01-10 17:37:53,378 [ERROR] rag_agent.services.retriever.two_stage:   r[6] = ['doc_kw']
+2026-01-10 17:37:53,379 [INFO] rag_agent.services.retriever.two_stage: 
+STAGE 1 RETRIEVAL BREAKDOWN: docs=57 (kw=27, sem=27, hybrid=3), secs=18 (kw=8, sem=6, hybrid=4)
+2026-01-10 17:37:53,379 [INFO] rag_agent.services.retriever.two_stage: 
+KEYWORD RETRIEVAL (Stage 1): 30 documents, 12 sections
+2026-01-10 17:37:53,379 [INFO] rag_agent.services.retriever.two_stage: Keyword Documents (top 30):
+2026-01-10 17:37:53,379 [INFO] rag_agent.services.retriever.two_stage:   1. Maryjane Puffer (mode=hybrid, kw_score=16.7466, sem_score=-0.0849, sources=['doc_kw', 'doc_vec'])
+2026-01-10 17:37:53,379 [INFO] rag_agent.services.retriever.two_stage:   2. Supporting Trans &amp; Nonbinary Students (mode=keyword, kw_score=14.7668, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,379 [INFO] rag_agent.services.retriever.two_stage:   3. Stanford Reach Lab’s Vaping Information, Solutions, and Inte (mode=keyword, kw_score=13.5394, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,379 [INFO] rag_agent.services.retriever.two_stage:   4. Adolescent Tobacco Prevention &amp; Cessation for School Hea (mode=keyword, kw_score=13.0606, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,379 [INFO] rag_agent.services.retriever.two_stage:   5. Telehealth Webinar 3: Telehealth Platforms (mode=keyword, kw_score=13.0060, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,379 [INFO] rag_agent.services.retriever.two_stage:   6. Building a “Virtual Presence” for Telehealth Substance Use T (mode=keyword, kw_score=9.9340, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,379 [INFO] rag_agent.services.retriever.two_stage:   7. Substance Use &amp; Adolescents: Identifying Disorders &amp; (mode=keyword, kw_score=8.2953, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,379 [INFO] rag_agent.services.retriever.two_stage:   8. Judy Singharath (mode=hybrid, kw_score=8.2053, sem_score=0.0202, sources=['doc_kw', 'doc_vec'])
+2026-01-10 17:37:53,379 [INFO] rag_agent.services.retriever.two_stage:   9. Our Staff (mode=keyword, kw_score=8.1324, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,379 [INFO] rag_agent.services.retriever.two_stage:   10. Planning for a School-Based Health Center or Wellness Center (mode=keyword, kw_score=8.0578, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   11. Fostering Student Well-Being Through School-Based Peer-to-Pe (mode=keyword, kw_score=7.1872, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   12. Mario Alfaro (mode=keyword, kw_score=6.8583, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   13. Carmen Vega (mode=hybrid, kw_score=6.7055, sem_score=-0.0404, sources=['doc_kw', 'doc_vec'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   14. Jazzmin Hicks-Bonam (mode=keyword, kw_score=6.6567, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   15. Healing-Centered Approaches to Addressing Adolescent Relatio (mode=keyword, kw_score=6.1820, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   16. Safety First Curriculum (mode=keyword, kw_score=5.8430, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   17. All About the Stanford University Tobacco Prevention Toolkit (mode=keyword, kw_score=5.7614, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   18. Telehealth Webinar 2: Billing &amp; Reimbursement (mode=keyword, kw_score=5.7301, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   19. Healthy Futures: Effective Alternatives to Suspension for Ni (mode=keyword, kw_score=5.4157, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   20. Using the Stanford Tobacco Prevention Toolkit (mode=keyword, kw_score=5.3133, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   21. Youth Opioid Overview (mode=keyword, kw_score=5.2642, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   22. HIPAA/FERPA: A Review (mode=keyword, kw_score=5.1698, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   23. Minor Consent for Substance Use Disorder Services (mode=keyword, kw_score=5.1698, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   24. Minor Consent Medi-Cal: What It Is &amp; How to Start It at  (mode=keyword, kw_score=5.0810, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   25. How to Use Naloxone: A Training for School-Based Health Cent (mode=keyword, kw_score=5.0096, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   26. Telehealth Webinar 4: Medical (mode=keyword, kw_score=4.9978, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   27. Locations (mode=keyword, kw_score=4.9122, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   28. Endnotes (mode=keyword, kw_score=4.6296, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   29. Why School-Based Health Centers &amp; Wellness Centers? (mode=keyword, kw_score=4.5262, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   30. Trainings &amp; Technical Assistance (mode=keyword, kw_score=4.3021, sem_score=None, sources=['doc_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage: Keyword Sections (top 12):
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   1. Audience (mode=hybrid, kw_score=15.9306, sem_score=-0.1729, sources=['sec_kw', 'sec_vec'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   2. Improving Integration with School Administration (mode=keyword, kw_score=11.8287, sem_score=None, sources=['sec_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   3. Acknowledgments (mode=hybrid, kw_score=10.5547, sem_score=-0.0840, sources=['sec_kw', 'sec_vec'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   4. STUDENTS WHO PRESENT TO THE SBHC ON THEIR OWN (or who are br (mode=keyword, kw_score=4.2871, sem_score=None, sources=['sec_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   5. Expectations of Both Parties (mode=keyword, kw_score=3.9147, sem_score=None, sources=['sec_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   6. Improving Integration with Students (mode=keyword, kw_score=3.3724, sem_score=None, sources=['sec_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   7. Communicating Results to Students and Parents/Guardians (mode=keyword, kw_score=3.2340, sem_score=None, sources=['sec_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   8. Guidelines for School-Based Health Centers in California (mode=hybrid, kw_score=3.2012, sem_score=-0.1722, sources=['sec_kw', 'sec_vec'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   9. 51– 50 (mode=keyword, kw_score=2.7891, sem_score=None, sources=['sec_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   10. SCHOOL-BASED HEALTH AND WELLNESS CENTERS IN CALIFORNIA (mode=keyword, kw_score=2.7831, sem_score=None, sources=['sec_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   11. Dispense Contraceptives & Emergency Contraception (mode=keyword, kw_score=2.7578, sem_score=None, sources=['sec_kw'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   12. SERVICES AND STAFFING (mode=hybrid, kw_score=2.7011, sem_score=-0.1403, sources=['sec_kw', 'sec_vec'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage: 
+SEMANTIC RETRIEVAL (Stage 1): 30 documents, 10 sections
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage: Semantic Documents (top 30):
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   1. Membership (mode=semantic, sem_score=0.0662, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   2. Amy Ranger (mode=semantic, sem_score=0.0656, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   3. Our Work (mode=semantic, sem_score=0.0579, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   4. Sierra Lau (mode=semantic, sem_score=0.0431, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   5. Amy Blackshaw (mode=semantic, sem_score=0.0368, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   6. Judy Singharath (mode=hybrid, sem_score=0.0202, kw_score=8.2053, sources=['doc_kw', 'doc_vec'])
+2026-01-10 17:37:53,380 [INFO] rag_agent.services.retriever.two_stage:   7. Creating Safer Spaces for LGBTQIA+ Youth &#8211; A Quick Gui (mode=semantic, sem_score=0.0174, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   8. Ally Wick (mode=semantic, sem_score=0.0075, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   9. Youth Engagement (mode=semantic, sem_score=-0.0037, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   10. Marcel Reynolds (mode=semantic, sem_score=-0.0110, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   11. Irma Rosa Viera (mode=semantic, sem_score=-0.0121, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   12. Carmen Vega (mode=hybrid, sem_score=-0.0404, kw_score=6.7055, sources=['doc_kw', 'doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   13. Marina Quintanilla (mode=semantic, sem_score=-0.0536, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   14. Youth Board (mode=semantic, sem_score=-0.0558, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   15. Maryjane Puffer (mode=hybrid, sem_score=-0.0849, kw_score=16.7466, sources=['doc_kw', 'doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   16. 2026 School Health Conference (mode=semantic, sem_score=-0.0941, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   17. Regional Coalitions (mode=semantic, sem_score=-0.1007, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   18. Jessica Saint-Paul (mode=semantic, sem_score=-0.1050, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   19. Michael Lombardo (mode=semantic, sem_score=-0.1067, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   20. California Students Creatively Share Health Knowledge at Y2Y (mode=semantic, sem_score=-0.1078, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   21. Felipe Mercado (mode=semantic, sem_score=-0.1134, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   22. Camara Christian (mode=semantic, sem_score=-0.1135, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   23. About (mode=semantic, sem_score=-0.1155, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   24. Immigration (mode=semantic, sem_score=-0.1172, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   25. Sharla E. Smith (mode=semantic, sem_score=-0.1234, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   26. Dareen Khatib (mode=semantic, sem_score=-0.1282, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   27. Job Opportunities (mode=semantic, sem_score=-0.1296, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   28. 2024 Inland Empire School-Based Health Symposium Resources (mode=semantic, sem_score=-0.1306, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   29. Central Valley School Health Coalition (mode=semantic, sem_score=-0.1324, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   30. Northern School Health Coalition (mode=semantic, sem_score=-0.1358, kw_score=None, sources=['doc_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage: Semantic Sections (top 10):
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   1. Acknowledgments (mode=hybrid, sem_score=-0.0840, kw_score=10.5547, sources=['sec_kw', 'sec_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   2. BULLETIN: REVIEW AND APPROVAL OF CONSTRUCTION OF SCHOOL-BASE (mode=semantic, sem_score=-0.1045, kw_score=None, sources=['sec_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   3. THE LEAD AGENCY (mode=semantic, sem_score=-0.1358, kw_score=None, sources=['sec_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   4. SERVICES AND STAFFING (mode=hybrid, sem_score=-0.1403, kw_score=2.7011, sources=['sec_kw', 'sec_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   5. CHDP Gateway Program (mode=semantic, sem_score=-0.1668, kw_score=None, sources=['sec_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   6. Guidelines for School-Based Health Centers in California (mode=hybrid, sem_score=-0.1722, kw_score=3.2012, sources=['sec_kw', 'sec_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   7. THE IDEAL MODEL FOR BEHAVIORAL HEALTH SERVICES IN SBHCS (mode=semantic, sem_score=-0.1727, kw_score=None, sources=['sec_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   8. Audience (mode=hybrid, sem_score=-0.1729, kw_score=15.9306, sources=['sec_kw', 'sec_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   9. Introduction (mode=semantic, sem_score=-0.1748, kw_score=None, sources=['sec_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage:   10. Why SBHCs? (mode=semantic, sem_score=-0.1832, kw_score=None, sources=['sec_vec'])
+2026-01-10 17:37:53,381 [INFO] rag_agent.services.retriever.two_stage: 
+====================================================== Stage 1: 57 documents, 18 sections (total 111) ======================================================
+2026-01-10 17:37:53,425 [INFO] rag_agent.services.retriever.two_stage: 
+====================================================== Stage 2: Retrieved 15 chunk blocks ======================================================
+2026-01-10 17:37:53,425 [INFO] rag_agent.services.retriever.two_stage: 
+   1. <text>The primary authors of this report were Holly Hughes, LCSW and Elizabeth Morrison, PhD,LCSW, both of EM Consulting. Thanks to our generous reviewers Erica Gomes, LCSW,at La Clínica de la Raza, Arlene Schneir at Children’s Hospital Los Angeles, colleaguesat the California Primary Care Association, Maryjane Puffer at The Los Angeles Trust forChildren’s Trust, and Kimberly Wyard at Northeast Valley Health Corporation. Thanksto CSHA staff Jessica Dyer, LCSW, Amy Ranger and Lisa Eisenberg. Great appreciationis also shared with our 293 SBHCs across the state, the amazing community of schoolhealth champions -- and to the youth that inspire us all every day.And finally, a special thanks to Oakland Opportunity Fund, an initiative of The SanFrancisco Foundation, for their generous funding to make this guide a possibility.We hope you will find this guide useful. Please share any feedback atinfo@schoolhealthcenters.org.Thank you!Executive Director, California School-Based Health AllianceJune 2021
+
+The School Based Health Center Billing Guide is intended primarily for those workingin or with Federally Qualified Health Centers (FQHCs). This includes executive leaders,operational and billing managers, and mental health clinicians and case managerswho are providing and/or overseeing behavioral health services in California SBHCs -including those who hope to provide these services in the future.</text>
+<reference><url>https://www.schoolhealthcenters.org/wp-content/uploads/2021/08/CSHA-IBH-Sustainability-Guide-2021.pdf</url></reference>...
+2026-01-10 17:37:53,425 [INFO] rag_agent.services.retriever.two_stage: 
+   2. <text>BSN, MPA Executive Director, The Los Angeles Trust for Children’s Health (The L.A. Trust)</text>
+<reference><url>https://www.schoolhealthcenters.org/people/maryjane-puffer/</url></reference>...
+2026-01-10 17:37:53,425 [INFO] rag_agent.services.retriever.two_stage: 
+   3. <text><h3>Sergio J. Morales</h3> Executive Director <h3>Ally Wick</h3> Technical Assistance Manager <h3>Amy Blackshaw</h3> Behavioral Health Project Director <h3>Amy Ranger</h3> Deputy Director <h3>Sierra Lau</h3> School Health Project Director <h3>Tracy Nguyen</h3> Training Manager <h3>Irma Rosa Viera</h3> Youth Engagement Coordinator <h3>Judy Singharath</h3> Administrative Manager <h3>Marcel Reynolds</h3> Dir. Strategic Communications & Membership <h3>Marina Quintanilla</h3> Advocacy & Strategic Partnerships Manager</text>
+<reference><url>https://www.schoolhealthcenters.org/about/staff/</url></reference>...
+2026-01-10 17:37:53,425 [INFO] rag_agent.services.retriever.two_stage: 
+   4. <text>January 23, 2024: Presenters from TransFamily Support Services explore how to support trans and nonbinary students at your school. Learn how to understand and affirm the spectrum and language of gender identity as well as incorporate best practices to support transgender and other gender-diverse folks. Presenters: Kathie Moehlig , Executive Director; Evan Johnson , Director of Education & Advocacy, TransFamily Support Services</text>
+<reference><url>https://www.schoolhealthcenters.org/resource/webinar-supporting-trans-nonbinary-students/</url></reference>...
+2026-01-10 17:37:53,425 [INFO] rag_agent.services.retriever.two_stage: 
+   5. <text>January 25, 2022: Health care providers, counselors, health educators, social workers, and anyone who works with youth can learn more about VISIT and how to use it. The toolkit has the latest information on how you can screen, counsel, and support youth in a clinical setting. Presenters: Bonnie Halpern-Felsher , PhD, FSAHM, Professor and Founder and Executive Director, Stanford Tobacco Prevention Toolkit, Cannabis Awareness and Prevention Toolkit, and Vaping Information, Solutions, and Interventions Toolkit; Marcia M. Zorrilla , DrPH, MPH, MCHES, Director of Positive Youth Development and Public Health Specialist</text>
+<reference><url>https://www.schoolhealthcenters.org/resource/webinar-stanford-reach-visit/</url></reference>...
+2026-01-10 17:37:53,425 [INFO] rag_agent.services.retriever.two_stage: 
+   6. <text>June 8, 2021: Learn about adolescent tobacco-use prevention and cessation practices, marijuana, vaping 101, and the impacts of the COVID-19 pandemic on youth tobacco use prevention efforts. Presenter: Bonnie Halpern-Felsher, PhD, FSAHM, Founder and Executive Director, Stanford Tobacco Prevention Toolkit and the Cannabis Awareness and Prevention Toolkit The June 2021 tobacco prevention webinars made possible with California Department of Education Tobacco Use Prevention Education Funding</text>
+<reference><url>https://www.schoolhealthcenters.org/resource/webinar-adolescent-tupe-sbhcs/</url></reference>...
+2026-01-10 17:37:53,425 [INFO] rag_agent.services.retriever.two_stage: 
+   7. <text>February 15, 2022: As more health care services are offered in a virtual setting, school health providers are looking for ways to create an environment conducive to health care for adolescents. Typically for in-person substance use services, clinicians must possess skills to create an environment that is private, distraction-free, and encourages young people to discuss or disclose information that is important to positively impacting treatment outcomes and/or recovery goals. Providing these services to young people virtually requires some careful modification of the clinicians’ skills to ensure engagement occurs and positive relationships are developed. Learn how to develop a virtual presence that leads to building empathy, trust, and mutual respect. Presenters: Nancy A. Roget , MS, MFT, LADC, Executive Director, Center for the Application of Substance Abuse Technologies; Maryellen Evers , LCSW, CAADAC, CMFSW This webinar supported by California Youth Opioid Response (YOR)</text>
+<reference><url>https://www.schoolhealthcenters.org/resource/webinar-telehealth-sud-treatment/</url></reference>...
+2026-01-10 17:37:53,425 [INFO] rag_agent.services.retriever.two_stage: 
+   8. <text>November 16, 2023: Peer-to-Peer support programs boost self-esteem, build a sense of community, and enhance social-emotional well-being for both student peer leaders and those they help. Learn how to create and implement school-based peer-to-peer support programs effectively. Supported by strength-based, well-designed peer programs, students can rise to the challenge and lead the way to positive change for themselves and their school community. Presenter: Hilary Roberts , M.Ed., Executive Director, Peer Advocates Training and Consulting</text>
+<reference><url>https://www.schoolhealthcenters.org/resource/webinar-peer-support-programs/</url></reference>...
+2026-01-10 17:37:53,425 [INFO] rag_agent.services.retriever.two_stage: 
+   9. <text>May 21, 2020: Sponsored by Molina Healthcare. Learn about the different considerations schools and health centers should take into account when adopting a telehealth platform. Presenter: Amanda Martin, MHA, Executive Director, Center for Rural Health Innovation In response to COVID-19, we partnered with the California Telehealth Policy Coalition, The Children’s Partnership, The Los Angeles Trust for Children’s Health, and the Pacific Southwest Mental Health Technology Transfer Network to host a telehealth webinar series to help SBHCs transition to telehealth services. We are grateful to Molina Healthcare for supporting part of this series of webinars.</text>
+<reference><url>https://www.schoolhealthcenters.org/resource/webinar-telehealth-platforms/</url></reference>...
+2026-01-10 17:37:53,426 [INFO] rag_agent.services.retriever.two_stage: 
+   10. <text>is needed to provide agreed upon services and programming• Utilize collaborative problem solving approach to resolve issues as they arise.• OtherAuthorized School Official _____________________________________ Date ___________________Agency Director _____________________________________________ Date ___________________School-Based Health Center Director ____________________________ Date ___________________</text>
+<reference><url>https://www.schoolhealthcenters.org/resource/vision-to-reality/</url></reference>...
+2026-01-10 17:37:53,426 [INFO] rag_agent.services.retriever.two_stage: 
+   11. <text>Judy Singharath supports the executive team to ensure the smooth functioning of CSHA. She has spent the majority of her career in the construction and insurance industries, helping small, local, minority, and diverse contractor businesses secure opportunities to bid on major city and county projects. She is passionate about supporting underrepresented communities. Judy holds a Bachelor of Science degree in International Business from San Francisco State University.</text>
+<reference><url>https://www.schoolhealthcenters.org/people/judy-singharath/</url></reference>...
+2026-01-10 17:37:53,426 [INFO] rag_agent.services.retriever.two_stage: 
+   12. <text>The number of school-based health centers continues to grow because the need is great and impact is deep. Doctors know it: When we can prevent health issues from developing into something worse, that to me epitomizes the strength of a school-based health center. Educators see it: The reality is that many of our children come to school sick because they have nowhere else to go. So it just makes sense to have a school-based health clinic as a key component to providing a quality education. Students feel it: Our school health center has everything! Comfort. Respect. Honesty. School is a hard place for many young people. They might be labeled as ‘low achieving’ or ‘angry,’ ‘apathetic’ or ‘defiant.’ When these young people come into a space that lifts up their hopes and dreams, they are able to re-position themselves in their own lives and within the school community as activists, artists, advocates and leaders. This chance to matter, to be an agent of change, has a profound impact on young people’s sense of themselves and their imaginative capacity to hold a positive future. Jenn Rader, Executive Director, The James Morehouse Project, El Cerrito High School Read more about how SBHCs positively impact student health. (1) Soleimanpour S, Geierstanger SP, Kalley S, et al. (2010). The Role of School Health Centers in Health Care Access and Client Outcomes. Am J Pub Health. 100(9): 1597-1603. (2) Guo JJ, Wade TW, & Keller KN. (2008). Impact of School-Based Health Centers on Students with Mental Health Problems. Public Health Reports. 123: 768-780. (3) Wade TJ, Mansour ME, Guo JJ et al. (2008). Access and Utilization Patterns of School-Based Health Centers at Urban and Rural Elementary and Middle School. Public Health Reports. 123: 739-750. (4) Allison MA, Crane LA, Beaty BL, et al. (2007). School-Based Health Centers: Improving Access and Quality of Care for Low-Income Adolescents. Pediatrics. 120(4): e887-e894. (5)Kaplan DW, Brindis CD, Phibbs SL, et al. (1999). A Comparison Study of an Elementary School-Based Health Center. Arch of Ped and Adol Med. 153: 235-243. (6) Allison et al (2007). (7) Kaplan et al (1999). (8) Anglin TM, Naylor KE, & Kaplan DW. (1996). Comprehensive School-Based Health Care: High School Students’ Use of Medical, Mental Health, and Substance Abuse Services. Pediatrics. 97: 318-330. (9) Santelli JS, Kouzis A, & Newcomer S. (1996). School-Based Health Centers and Adolescent Use of Primary Care and Hospital Care. J</text>
+<reference><url>https://www.schoolhealthcenters.org/resource/why-sbhcs/</url></reference>...
+2026-01-10 17:37:53,426 [INFO] rag_agent.services.retriever.two_stage: 
+   13. <text>Meet with the school principal at least twice a year – once at the beginning of the school year to establish priorities and again at the end of the school year to evaluate partnership, programs, and services. Assign a SBHC/WC “point person” for communication with school administrators; usually, the “point person” will be the coordinator/director.</text>
+<reference><url>https://www.schoolhealthcenters.org/wp-content/uploads/2024/05/Improving-Integration-School-Based-Health-Quick-Guide.pdf</url></reference>...
+2026-01-10 17:37:53,426 [INFO] rag_agent.services.retriever.two_stage: 
+   14. <text>January 20, 2022: Adolescents are using substances like opioids and stimulants, but it can be hard to know when recreational use becomes misuse or a disorder. Hear from CA Bridge’s Youth MAT Pilot about best practices in identifying, referring, and treating youth with substance use disorders. Presenter: Aimee Moulin , MD, Co-Principal Investigator; Elizabeth Keating , MPA, Clinical Program Director, California Bridge Program This webinar supported by California Youth Opioid Response (YOR)</text>
+<reference><url>https://www.schoolhealthcenters.org/resource/webinar-sud-adolescents-treatment/</url></reference>...
+2026-01-10 17:37:53,426 [INFO] rag_agent.services.retriever.two_stage: 
+   15. <text>October 8, 2025: Stanford REACH Lab’s Safety First Curriculum is made up of 13 lessons on alcohol, opioids/fentanyl, psychedelics, and other drugs. The purpose of all of their curriculum is to encourage youth to abstain from use, but this curriculum also provides high school students with scientifically accurate information to empower them to quit and/or reduce harm, should they choose to continue to use. Presenter: Juanita T. Greene , Director of Curriculum Development, Stanford REACH Lab</text>
+<reference><url>https://www.schoolhealthcenters.org/resource/safety-first-curriculum-webinar/</url></reference>...
+2026-01-10 17:37:53,427 [INFO] rag_agent.services.retriever.two_stage: 
+2026-01-10 17:37:53,427 [INFO] rag_agent.services.retriever.two_stage: ============================================================ Retrieval Latency ============================================================
+2026-01-10 17:37:53,427 [INFO] rag_agent.services.retriever.two_stage: Total Retrieval Time: 4.930s
+2026-01-10 17:37:53,427 [INFO] rag_agent.services.retriever.two_stage:   - Embedding:        4.798s (97.3%)
+2026-01-10 17:37:53,427 [INFO] rag_agent.services.retriever.two_stage:   - Stage 1 (Filter): 0.087s (1.8%)
+2026-01-10 17:37:53,427 [INFO] rag_agent.services.retriever.two_stage:   - Stage 2 (Chunks): 0.045s (0.9%)
+2026-01-10 17:37:53,427 [INFO] rag_agent.services.retriever.two_stage:   - Other:            0.000s
+2026-01-10 17:37:53,427 [INFO] rag_agent.services.retriever.two_stage: ============================================================================================================================================
+2026-01-10 17:37:53,427 [INFO] rag_agent.services.retriever.two_stage: 
+2026-01-10 17:37:53,427 [INFO] rag_agent.services.rag: Today's date: 2026-01-10 (Pacific Time)
+2026-01-10 17:37:54,777 [INFO] rag_agent.services.rag: Response generated (303 characters):
+2026-01-10 17:37:54,777 [INFO] rag_agent.services.rag: 
+
+=========================== Response ===========================
+The Executive Director of the California School-Based Health Alliance (CSHA) is Sergio J. Morales.  
+
+You can find this information on the CSHA staff page listing key team members, including Sergio J. Morales as Executive Director [1].
+
+References:  
+[1] https://www.schoolhealthcenters.org/about/staff/
+2026-01-10 17:37:54,777 [INFO] rag_agent.services.rag: 
+
+=========================== Response Metadata ===========================
+{'input_tokens': 4604, 'output_tokens': 66, 'total_tokens': 4670, 'input_token_details': {'audio': 0, 'cache_read': 0}, 'output_token_details': {'audio': 0, 'reasoning': 0}}
+2026-01-10 17:37:54,777 [INFO] rag_agent.services.rag: 
+
+=========================== Total Cost ===========================
+$0.0019471999999999998
+2026-01-10 17:37:54,777 [INFO] rag_agent.services.rag: 
+2026-01-10 17:37:54,777 [INFO] rag_agent.services.rag: ============================================================ Generation Latency ============================================================
+2026-01-10 17:37:54,777 [INFO] rag_agent.services.rag: Total Generation Time: 1.350s
+2026-01-10 17:37:54,777 [INFO] rag_agent.services.rag:   - First Token Latency: N/A (streaming)
+2026-01-10 17:37:54,777 [INFO] rag_agent.services.rag:   - Tokens Generated: 66
+2026-01-10 17:37:54,777 [INFO] rag_agent.services.rag:   - Generation Speed: 48.9 tokens/sec
+2026-01-10 17:37:54,777 [INFO] rag_agent.services.rag: ============================================================================================================================================
+2026-01-10 17:37:54,777 [INFO] rag_agent.services.rag: 
+2026-01-10 17:37:54,777 [INFO] rag_agent.services.rag: 
+2026-01-10 17:37:54,777 [INFO] rag_agent.services.rag: ============================================================ Total Query Latency ============================================================
+2026-01-10 17:37:54,777 [INFO] rag_agent.services.rag: Total Query Time: 6.281s
+2026-01-10 17:37:54,778 [INFO] rag_agent.services.rag:   - Retrieval:         4.931s (78.5%)
+2026-01-10 17:37:54,778 [INFO] rag_agent.services.rag:   - Prompt Building:   0.000s (0.0%)
+2026-01-10 17:37:54,778 [INFO] rag_agent.services.rag:   - Generation:        1.350s (21.5%)
+2026-01-10 17:37:54,778 [INFO] rag_agent.services.rag:   - Other:             0.000s
+2026-01-10 17:37:54,778 [INFO] rag_agent.services.rag: ============================================================================================================================================
+2026-01-10 17:37:54,778 [INFO] rag_agent.services.rag: 
+2026-01-10 17:37:54,778 [INFO] rag_agent.services.rag: 
+2026-01-10 17:37:54,778 [INFO] rag_agent.services.rag: ============================================================ Total RAG Pipeline Latency ============================================================
+2026-01-10 17:37:54,778 [INFO] rag_agent.services.rag: Total RAG Time: 6.465s
+2026-01-10 17:37:54,778 [INFO] rag_agent.services.rag:   - Setup:             0.183s (2.8%)
+2026-01-10 17:37:54,778 [INFO] rag_agent.services.rag:   - Query Processing:  6.282s (97.2%)
+2026-01-10 17:37:54,778 [INFO] rag_agent.services.rag: ============================================================================================================================================
+2026-01-10 17:37:54,778 [INFO] rag_agent.services.rag: 
